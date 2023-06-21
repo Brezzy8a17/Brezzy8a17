@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brezzy8a17
 - 👀 I’m interested in learning C and C++
-- 🌱 I’m currently learning pyhton and learning how to operate kali linux
+- 🌱 I’m currently learning pyhton and learning how to apply it in simple machina learning capabilities 
 - 💞️ I’m looking to collaborate on any simple projects to start practicing 
 - 📫 How to reach me / memo8a17@gmail.com
 
